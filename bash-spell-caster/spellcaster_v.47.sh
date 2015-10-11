@@ -67,7 +67,7 @@ account_user_password=""
 
 # !! Passwords will not work after reboot. !!
 
-your_public_openssh_key_for_remote_access="http://dl.dropbox.com/u/58771881/installs/Office-PCs/id_dsa.pub.key"
+your_public_openssh_key_for_remote_access=""
 # Personalized sshd_config file.
 sshd_config=$http_file_url_path"root/etc/ssh/sshd_config"
 
